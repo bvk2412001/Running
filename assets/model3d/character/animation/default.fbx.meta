@@ -1,0 +1,81 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "b2b98dcf-a7d4-461f-8939-704ebbe8221e",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "8a054": {
+      "importer": "gltf-animation",
+      "uuid": "b2b98dcf-a7d4-461f-8939-704ebbe8221e@8a054",
+      "displayName": "",
+      "id": "8a054",
+      "name": "default.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 8.333333015441895
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "a6acb": {
+      "importer": "gltf-scene",
+      "uuid": "b2b98dcf-a7d4-461f-8939-704ebbe8221e@a6acb",
+      "displayName": "",
+      "id": "a6acb",
+      "name": "default.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "animationImportSettings": [
+      {
+        "name": "mixamo.com",
+        "duration": 8.333333015441895,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "default",
+            "from": 0,
+            "to": 8.333333015441895,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "b2b98dcf-a7d4-461f-8939-704ebbe8221e@a6acb",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "b2b98dcf-a7d4-461f-8939-704ebbe8221e@a6acb"
+      ]
+    }
+  }
+}
